@@ -4,13 +4,13 @@ Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! T
 
 1. **Fork this Repository:**
    - Go to the repository on GitHub and fork it to your own account. This will allow you to track your progress and contribute.
-
+   Done
 2. **Start with a DevOps Roadmap:**
    - Watch the introductory video on DevOps: [DevOps Roadmap](https://youtu.be/g_QHuGq3E2Y?si=fR9K56-JevZTfrBK)
-
+  Done
 3. **Write a LinkedIn Post or a Small Article:**
    - Share your understanding of DevOps based on the video and your research. Cover the following points:
-
+  
      - **What is DevOps:**
        
        
